@@ -50,7 +50,7 @@ Zizhuo Wang<sup>1</sup>,
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/xiac20/SimRecon.git
+git clone https://github.com/rio-one/SimRecon.git
 cd SimRecon
 ```
 ### 2. Environment Setup
